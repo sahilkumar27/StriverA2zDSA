@@ -64,7 +64,6 @@ Explanation of sample output 1:
 {1, 2} each occurs twice, whereas 3 occurs only once.
 Hence the answer is 3.
 
-
 Sample Input 2:
 5
 8 8 9 9 10
